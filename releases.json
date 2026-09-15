@@ -2,5 +2,16 @@
   "schema": 1,
   "product": "evDash",
   "packageId": "sk.next176.evdashapp",
-  "releases": []
+  "releases": [
+    {
+      "version": "1.3.9",
+      "build": 933,
+      "tag": "v1.3.9-933",
+      "publishedAt": "2026-09-15T20:09:52Z",
+      "apk": "evdash-1.3.9-933.apk",
+      "sha256": "b6c4b4467776f0744ecece6fe4fe2cb6ed2c888813f0dce164eab1847a08a084",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.3.9-933/evdash-1.3.9-933.apk",
+      "notes": "iOS toolchain fixes, Geely SEA platform sweep. First official public GitHub release of evDash."
+    }
+  ]
 }
