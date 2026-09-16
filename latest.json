@@ -3,13 +3,13 @@
   "product": "evDash",
   "packageId": "sk.next176.evdashapp",
   "release": {
-    "version": "1.3.9",
-    "build": 933,
-    "tag": "v1.3.9-933",
-    "publishedAt": "2026-09-15T20:09:52Z",
-    "apk": "evdash-1.3.9-933.apk",
-    "sha256": "b6c4b4467776f0744ecece6fe4fe2cb6ed2c888813f0dce164eab1847a08a084",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.3.9-933/evdash-1.3.9-933.apk",
-    "notes": "iOS toolchain fixes, Geely SEA platform sweep. First official public GitHub release of evDash."
+    "version": "1.4.0",
+    "build": 936,
+    "tag": "v1.4.0-936",
+    "publishedAt": "2026-09-16T10:35:28Z",
+    "apk": "evdash-1.4.0-936.apk",
+    "sha256": "266f34ce4eb1a7258f38c31eeca25444e6efd024c0b128651bb9d40edbbec4a8",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.0-936/evdash-1.4.0-936.apk",
+    "notes": "Honda e DC fast charging recognized. BAW Pony 13.7 kWh first real battery data. Follow-up to 935."
   }
 }

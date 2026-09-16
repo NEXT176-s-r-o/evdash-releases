@@ -4,6 +4,16 @@
   "packageId": "sk.next176.evdashapp",
   "releases": [
     {
+      "version": "1.4.0",
+      "build": 936,
+      "tag": "v1.4.0-936",
+      "publishedAt": "2026-09-16T10:35:28Z",
+      "apk": "evdash-1.4.0-936.apk",
+      "sha256": "266f34ce4eb1a7258f38c31eeca25444e6efd024c0b128651bb9d40edbbec4a8",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.0-936/evdash-1.4.0-936.apk",
+      "notes": "Honda e DC fast charging recognized. BAW Pony 13.7 kWh first real battery data. Follow-up to 935."
+    },
+    {
       "version": "1.3.9",
       "build": 933,
       "tag": "v1.3.9-933",
