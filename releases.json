@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.0",
+      "build": 938,
+      "tag": "v1.4.0-938",
+      "publishedAt": "2026-09-17T07:12:37Z",
+      "apk": "evdash-1.4.0-938.apk",
+      "sha256": "875eb991820d91b9f21d031e5898bdc3c3d61667a0d19dc0d65f74163563dd45",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.0-938/evdash-1.4.0-938.apk",
+      "notes": "Honda e pack capacity shown. Mercedes eVito: odometer + more accurate SoH. Hongqi E-HS3: fixed wrong cell count. Smart EQ (453): tyre pressure shown. E-GMP: ~40% faster live refresh."
+    },
+    {
+      "version": "1.4.0",
       "build": 936,
       "tag": "v1.4.0-936",
       "publishedAt": "2026-09-16T10:35:28Z",
