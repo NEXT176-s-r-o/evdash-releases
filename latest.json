@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.0",
-    "build": 938,
-    "tag": "v1.4.0-938",
-    "publishedAt": "2026-09-17T07:12:37Z",
-    "apk": "evdash-1.4.0-938.apk",
-    "sha256": "875eb991820d91b9f21d031e5898bdc3c3d61667a0d19dc0d65f74163563dd45",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.0-938/evdash-1.4.0-938.apk",
-    "notes": "Honda e pack capacity shown. Mercedes eVito: odometer + more accurate SoH. Hongqi E-HS3: fixed wrong cell count. Smart EQ (453): tyre pressure shown. E-GMP: ~40% faster live refresh."
+    "build": 939,
+    "tag": "v1.4.0-939",
+    "publishedAt": "2026-09-18T08:05:00Z",
+    "apk": "evdash-1.4.0-939.apk",
+    "sha256": "ca7b62fecc0a9264ee3aa3ebbfbeb981ab3cefec7f0bca40a62aa0ad64adfba1",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.0-939/evdash-1.4.0-939.apk",
+    "notes": "CarPlay map: no snap-back, bigger zoom, alt routes, charger outlet counts, animations, head-unit nav. E-GMP shows CONDITIONING instead of a minute of OFF. Smart EQ (453): speed+odometer. Tesla Classic S/X: RPM/range/temp. New: Toyota Century, Crown Estate PHEV."
   }
 }
