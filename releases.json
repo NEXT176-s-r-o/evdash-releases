@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.0",
+      "build": 941,
+      "tag": "v1.4.0-941",
+      "publishedAt": "2026-09-19T06:48:52Z",
+      "apk": "evdash-1.4.0-941.apk",
+      "sha256": "506d99a0284a23fb7b866c28c27d51690b19136c58795964e168620a18fa27b0",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.0-941/evdash-1.4.0-941.apk",
+      "notes": "E-GMP live loop steadier (~7 s). Hybrid fuel avg/range fix; trip energy kept across reconnects; XPeng report and aux-battery fixes. New data: e-Golf VIN, KGM Musso EV, BAW Pony, Wuling Bingo, Subaru Trailseeker. New China/VinFast catalog entries."
+    },
+    {
+      "version": "1.4.0",
       "build": 939,
       "tag": "v1.4.0-939",
       "publishedAt": "2026-09-18T08:05:00Z",
