@@ -7,9 +7,9 @@
       "version": "1.4.0",
       "build": 942,
       "tag": "v1.4.0-942",
-      "publishedAt": "2026-09-20T06:10:22Z",
+      "publishedAt": "2026-09-20T06:15:53Z",
       "apk": "evdash-1.4.0-942.apk",
-      "sha256": "59c682936cbf21cdf4a41abe59aafe8a8875f6c1f3b47e24d647d646d2d8989e",
+      "sha256": "368b0c8c3e53b69f81c478ac68d34952a05d7868586fced5c628fe10f43707f7",
       "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.0-942/evdash-1.4.0-942.apk",
       "notes": "Android: Google Maps navigation replaces OSM in the Map tab (Places search, alternative routes with arrival SoC, chargers, EV panel; also Android Auto). AA display settings apply on first click. Classic Kona/Ioniq: AC no longer shown as DC. MG/SAIC: 5 more battery registers. Tesla cable hint. New: Tesla Model S 60, Dacia Spring 24.3."
     },
