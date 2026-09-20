@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.0",
-    "build": 941,
-    "tag": "v1.4.0-941",
-    "publishedAt": "2026-09-19T06:48:52Z",
-    "apk": "evdash-1.4.0-941.apk",
-    "sha256": "506d99a0284a23fb7b866c28c27d51690b19136c58795964e168620a18fa27b0",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.0-941/evdash-1.4.0-941.apk",
-    "notes": "E-GMP live loop steadier (~7 s). Hybrid fuel avg/range fix; trip energy kept across reconnects; XPeng report and aux-battery fixes. New data: e-Golf VIN, KGM Musso EV, BAW Pony, Wuling Bingo, Subaru Trailseeker. New China/VinFast catalog entries."
+    "build": 942,
+    "tag": "v1.4.0-942",
+    "publishedAt": "2026-09-20T06:10:22Z",
+    "apk": "evdash-1.4.0-942.apk",
+    "sha256": "59c682936cbf21cdf4a41abe59aafe8a8875f6c1f3b47e24d647d646d2d8989e",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.0-942/evdash-1.4.0-942.apk",
+    "notes": "Android: Google Maps navigation replaces OSM in the Map tab (Places search, alternative routes with arrival SoC, chargers, EV panel; also Android Auto). AA display settings apply on first click. Classic Kona/Ioniq: AC no longer shown as DC. MG/SAIC: 5 more battery registers. Tesla cable hint. New: Tesla Model S 60, Dacia Spring 24.3."
   }
 }
