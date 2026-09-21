@@ -3,13 +3,13 @@
   "product": "evDash",
   "packageId": "sk.next176.evdashapp",
   "release": {
-    "version": "1.4.0",
-    "build": 942,
-    "tag": "v1.4.0-942",
-    "publishedAt": "2026-09-20T06:15:53Z",
-    "apk": "evdash-1.4.0-942.apk",
-    "sha256": "368b0c8c3e53b69f81c478ac68d34952a05d7868586fced5c628fe10f43707f7",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.0-942/evdash-1.4.0-942.apk",
-    "notes": "Android: Google Maps navigation replaces OSM in the Map tab (Places search, alternative routes with arrival SoC, chargers, EV panel; also Android Auto). AA display settings apply on first click. Classic Kona/Ioniq: AC no longer shown as DC. MG/SAIC: 5 more battery registers. Tesla cable hint. New: Tesla Model S 60, Dacia Spring 24.3."
+    "version": "1.4.1",
+    "build": 943,
+    "tag": "v1.4.1-943",
+    "publishedAt": "2026-09-21T09:04:09Z",
+    "apk": "evdash-1.4.1-943.apk",
+    "sha256": "92a6590074b753a385491fad323c8eb051515be686c2838c58fe1e14c5d2a9d0",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.1-943/evdash-1.4.1-943.apk",
+    "notes": "Renault Zoe ZE50 charging detected; Renault 5 DC fast charge. Peugeot/Citroën/Opel/DS/Alfa odometer. VW ID. road consumption; e-Golf 24.2 charger + temperatures. Mercedes EQC odometer + cell temps; Audi Q8/SQ8 motor data; Kona/Niro 12 V + LDC. Android: navigation follows the car's night mode, new phone-map controls."
   }
 }
