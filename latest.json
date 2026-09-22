@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.1",
-    "build": 943,
-    "tag": "v1.4.1-943",
-    "publishedAt": "2026-09-21T09:04:09Z",
-    "apk": "evdash-1.4.1-943.apk",
-    "sha256": "92a6590074b753a385491fad323c8eb051515be686c2838c58fe1e14c5d2a9d0",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.1-943/evdash-1.4.1-943.apk",
-    "notes": "Renault Zoe ZE50 charging detected; Renault 5 DC fast charge. Peugeot/Citroën/Opel/DS/Alfa odometer. VW ID. road consumption; e-Golf 24.2 charger + temperatures. Mercedes EQC odometer + cell temps; Audi Q8/SQ8 motor data; Kona/Niro 12 V + LDC. Android: navigation follows the car's night mode, new phone-map controls."
+    "build": 945,
+    "tag": "v1.4.1-945",
+    "publishedAt": "2026-09-22T11:04:30Z",
+    "apk": "evdash-1.4.1-945.apk",
+    "sha256": "531ac7bf8ed9439da2645f3cdfce4e8ef3eca198c58160c2be2e1a168806c648",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.1-945/evdash-1.4.1-945.apk",
+    "notes": "BMW i3/i3s: all 96 cells in the Cells screen (auto-scan) and in the pre-purchase check. BMW plug-in hybrids: cell SoC min/max/avg, cell OCV and capacity. MINI Aceman E/SE: first profile (pack voltage). Honda HR-V e:HEV: no more guessed gear letter. MEB preheat: clearer wording, park + open hood. Chinese adapter test incl. PDF font. iOS map: charger naming and clusters; Android: new navigation dialogs."
   }
 }
