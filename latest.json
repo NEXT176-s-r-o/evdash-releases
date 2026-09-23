@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.1",
-    "build": 945,
-    "tag": "v1.4.1-945",
-    "publishedAt": "2026-09-22T11:04:30Z",
-    "apk": "evdash-1.4.1-945.apk",
-    "sha256": "531ac7bf8ed9439da2645f3cdfce4e8ef3eca198c58160c2be2e1a168806c648",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.1-945/evdash-1.4.1-945.apk",
-    "notes": "BMW i3/i3s: all 96 cells in the Cells screen (auto-scan) and in the pre-purchase check. BMW plug-in hybrids: cell SoC min/max/avg, cell OCV and capacity. MINI Aceman E/SE: first profile (pack voltage). Honda HR-V e:HEV: no more guessed gear letter. MEB preheat: clearer wording, park + open hood. Chinese adapter test incl. PDF font. iOS map: charger naming and clusters; Android: new navigation dialogs."
+    "build": 946,
+    "tag": "v1.4.1-946",
+    "publishedAt": "2026-09-23T06:30:19Z",
+    "apk": "evdash-1.4.1-946.apk",
+    "sha256": "b0037228b44346333b411ca3dfb020601ee7e240145b1a566637106f7fab0eae",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.1-946/evdash-1.4.1-946.apk",
+    "notes": "CarPlay: new tile size setting (Large/Medium/Small) for the Driving and Charging screens. BYD Atto 3 split into Standard Range and Extended Range - please re-pick your car. Pre-purchase: a full LFP pack no longer reads as unbalanced. VW e-Up: the 18.7 kWh pack is detected from the car. Kona 64 kWh: AC and DC charging told apart. Honda HR-V e:HEV: gear letter back as an approximation. Hongqi E-HS3 separated from the E-QM5 decode. Chinese and catalog polish; MEB preheat wording."
   }
 }
