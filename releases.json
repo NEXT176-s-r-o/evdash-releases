@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.1",
+      "build": 950,
+      "tag": "v1.4.1-950",
+      "publishedAt": "2026-09-24T07:30:09Z",
+      "apk": "evdash-1.4.1-950.apk",
+      "sha256": "0a8b4efef8b98fae304768a8dc768850773bda8a5d93d08834cad7ce5be3c367",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.1-950/evdash-1.4.1-950.apk",
+      "notes": "Android Auto: Extra large tiles are back, pages no longer lose a tile, and guidance posts turn notifications to the car screen. Tesla Model 3/Y motor temperature shows the motor; Tesla Model S/X SoC no longer freezes at 96.4 %. New readings: BMW Gen5 SoC from the cluster, BMW plug-in hybrid ignition, BYD cabin temperature and motor torque, Volvo/Polestar speed, XPeng G6/G9 DC voltage limit, Ford Courier gear, Mazda CX-60 PHEV 13 to 23 values. Toyota hybrid 12 V fixed. MG4 motor speed read removed as a precaution."
+    },
+    {
+      "version": "1.4.1",
       "build": 946,
       "tag": "v1.4.1-946",
       "publishedAt": "2026-09-23T06:30:19Z",
