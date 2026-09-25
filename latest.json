@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.1",
-    "build": 950,
-    "tag": "v1.4.1-950",
-    "publishedAt": "2026-09-24T07:30:09Z",
-    "apk": "evdash-1.4.1-950.apk",
-    "sha256": "0a8b4efef8b98fae304768a8dc768850773bda8a5d93d08834cad7ce5be3c367",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.1-950/evdash-1.4.1-950.apk",
-    "notes": "Android Auto: Extra large tiles are back, pages no longer lose a tile, and guidance posts turn notifications to the car screen. Tesla Model 3/Y motor temperature shows the motor; Tesla Model S/X SoC no longer freezes at 96.4 %. New readings: BMW Gen5 SoC from the cluster, BMW plug-in hybrid ignition, BYD cabin temperature and motor torque, Volvo/Polestar speed, XPeng G6/G9 DC voltage limit, Ford Courier gear, Mazda CX-60 PHEV 13 to 23 values. Toyota hybrid 12 V fixed. MG4 motor speed read removed as a precaution."
+    "build": 951,
+    "tag": "v1.4.1-951",
+    "publishedAt": "2026-09-25T06:57:00Z",
+    "apk": "evdash-1.4.1-951.apk",
+    "sha256": "a8fc7fef29bfa34c79e248fec2d5dee503b46e309830700c806b9300b3a743b3",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.1-951/evdash-1.4.1-951.apk",
+    "notes": "12 V battery protection on by default: evDash disconnects below 11.5 V or when the adapter cannot report its voltage (Settings, can be switched off). New: demo mode on a recorded Ioniq 6, charge and low-battery SoC alarms, pre-purchase health score, range at the recent pace, charging card OF MAX % and rated power, 12 V / DC-DC verdict, offline charger tiles. Fixes: E-GMP 12 V/DC-DC currents, Leaf 40 SoC, Volvo/Polestar DC charging, STLA Medium cells, charge report energy after a link gap."
   }
 }
