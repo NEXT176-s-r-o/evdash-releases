@@ -3,13 +3,13 @@
   "product": "evDash",
   "packageId": "sk.next176.evdashapp",
   "release": {
-    "version": "1.4.1",
-    "build": 951,
-    "tag": "v1.4.1-951",
-    "publishedAt": "2026-09-25T06:57:00Z",
-    "apk": "evdash-1.4.1-951.apk",
-    "sha256": "a8fc7fef29bfa34c79e248fec2d5dee503b46e309830700c806b9300b3a743b3",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.1-951/evdash-1.4.1-951.apk",
-    "notes": "12 V battery protection on by default: evDash disconnects below 11.5 V or when the adapter cannot report its voltage (Settings, can be switched off). New: demo mode on a recorded Ioniq 6, charge and low-battery SoC alarms, pre-purchase health score, range at the recent pace, charging card OF MAX % and rated power, 12 V / DC-DC verdict, offline charger tiles. Fixes: E-GMP 12 V/DC-DC currents, Leaf 40 SoC, Volvo/Polestar DC charging, STLA Medium cells, charge report energy after a link gap."
+    "version": "1.4.2",
+    "build": 952,
+    "tag": "v1.4.2-952",
+    "publishedAt": "2026-09-26T07:15:00Z",
+    "apk": "evdash-1.4.2-952.apk",
+    "sha256": "ba0c86a848ac591f0b1236a45e3611ab95066bab5c861eb9ded48aad087fee10",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.2-952/evdash-1.4.2-952.apk",
+    "notes": "Drives recorded by the M5 adapter are collected automatically, S3XY Commander limited to Tesla Model 3/Y, cell tests keep their verdict after switch-off, pre-purchase scan no longer cancelled by garage GPS drift, 12 V charge estimate on more cars, revised Chinese translation. Cars: Jaguar I-Pace, Audi e-tron 12 V, BMW battery temperature, MEB cell SoH, Nissan Leaf doors, Toyota 2026, smart 453, Renault Scenic AC charging."
   }
 }
