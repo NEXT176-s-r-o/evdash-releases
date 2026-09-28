@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.2",
+      "build": 954,
+      "tag": "v1.4.2-954",
+      "publishedAt": "2026-09-28T08:53:00Z",
+      "apk": "evdash-1.4.2-954.apk",
+      "sha256": "9c9f3f9f24278f696c9d69208c17dec05a34e888b7db1ec18033037de9a64a6b",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.2-954/evdash-1.4.2-954.apk",
+      "notes": "Kia Niro EV 64.8: ECU scan and fault codes disabled after reports of a shift to neutral; safer clearing of fault codes (read first, erase only units with codes); car info dialog; arrival SoC on the Drive SOC tile during navigation; live stream no longer loses data; demo mode and connection fixes; about 3,100 more texts translated. Cars: BMW iX3, Volt/Ampera Gen1 SoH, Mach-E DC power, Geely SEA charging, Ariya, e-Boxer, Elroq, C-HR+, XPeng P7+."
+    },
+    {
+      "version": "1.4.2",
       "build": 953,
       "tag": "v1.4.2-953",
       "publishedAt": "2026-09-27T05:36:00Z",
