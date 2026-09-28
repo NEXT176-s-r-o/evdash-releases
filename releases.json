@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.2",
+      "build": 955,
+      "tag": "v1.4.2-955",
+      "publishedAt": "2026-09-28T17:58:00Z",
+      "apk": "evdash-1.4.2-955.apk",
+      "sha256": "dd593eaea1cb5d6ecbc398df82bdd399d1019a12584fad18c1687fa7ff0bd708",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.2-955/evdash-1.4.2-955.apk",
+      "notes": "Fix: stationary scans and the Pre-purchase Check no longer disconnect with \"Adapter supply voltage could not be verified\" at a healthy voltage. Safety: Generic OBD2 skips control units the car's safety profile blocks; Geely EX2 39.4/40.8 listen-only with SoC. Fullscreen Drive panels, adapter test \"Passive CAN capabilities\". Cars: Tesla 3/Y capacity, Leaf power and dash SoC, Zoe VIN/tyres/motor temp + 50 values, Outlander PHEV cells, Evoque/E-Pace P300e."
+    },
+    {
+      "version": "1.4.2",
       "build": 954,
       "tag": "v1.4.2-954",
       "publishedAt": "2026-09-28T08:53:00Z",

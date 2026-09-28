@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.2",
-    "build": 954,
-    "tag": "v1.4.2-954",
-    "publishedAt": "2026-09-28T08:53:00Z",
-    "apk": "evdash-1.4.2-954.apk",
-    "sha256": "9c9f3f9f24278f696c9d69208c17dec05a34e888b7db1ec18033037de9a64a6b",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.2-954/evdash-1.4.2-954.apk",
-    "notes": "Kia Niro EV 64.8: ECU scan and fault codes disabled after reports of a shift to neutral; safer clearing of fault codes (read first, erase only units with codes); car info dialog; arrival SoC on the Drive SOC tile during navigation; live stream no longer loses data; demo mode and connection fixes; about 3,100 more texts translated. Cars: BMW iX3, Volt/Ampera Gen1 SoH, Mach-E DC power, Geely SEA charging, Ariya, e-Boxer, Elroq, C-HR+, XPeng P7+."
+    "build": 955,
+    "tag": "v1.4.2-955",
+    "publishedAt": "2026-09-28T17:58:00Z",
+    "apk": "evdash-1.4.2-955.apk",
+    "sha256": "dd593eaea1cb5d6ecbc398df82bdd399d1019a12584fad18c1687fa7ff0bd708",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.2-955/evdash-1.4.2-955.apk",
+    "notes": "Fix: stationary scans and the Pre-purchase Check no longer disconnect with \"Adapter supply voltage could not be verified\" at a healthy voltage. Safety: Generic OBD2 skips control units the car's safety profile blocks; Geely EX2 39.4/40.8 listen-only with SoC. Fullscreen Drive panels, adapter test \"Passive CAN capabilities\". Cars: Tesla 3/Y capacity, Leaf power and dash SoC, Zoe VIN/tyres/motor temp + 50 values, Outlander PHEV cells, Evoque/E-Pace P300e."
   }
 }
