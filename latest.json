@@ -3,13 +3,13 @@
   "product": "evDash",
   "packageId": "sk.next176.evdashapp",
   "release": {
-    "version": "1.4.2",
-    "build": 955,
-    "tag": "v1.4.2-955",
-    "publishedAt": "2026-09-28T17:58:00Z",
-    "apk": "evdash-1.4.2-955.apk",
-    "sha256": "dd593eaea1cb5d6ecbc398df82bdd399d1019a12584fad18c1687fa7ff0bd708",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.2-955/evdash-1.4.2-955.apk",
-    "notes": "Fix: stationary scans and the Pre-purchase Check no longer disconnect with \"Adapter supply voltage could not be verified\" at a healthy voltage. Safety: Generic OBD2 skips control units the car's safety profile blocks; Geely EX2 39.4/40.8 listen-only with SoC. Fullscreen Drive panels, adapter test \"Passive CAN capabilities\". Cars: Tesla 3/Y capacity, Leaf power and dash SoC, Zoe VIN/tyres/motor temp + 50 values, Outlander PHEV cells, Evoque/E-Pace P300e."
+    "version": "1.4.3",
+    "build": 957,
+    "tag": "v1.4.3-957",
+    "publishedAt": "2026-09-30T07:17:00Z",
+    "apk": "evdash-1.4.3-957.apk",
+    "sha256": "af11deb615bf01ec2574363ef97d75cbce6d9237b403c97fed3a78f504837ebc",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.3-957/evdash-1.4.3-957.apk",
+    "notes": "Drive tab is now \"Dashboard\". Safety: Service scans skip the brake/airbag units on the Geely EX2 and ESC/EPB on VW Group plug-ins. Fixed: MEB/e-Golf/e-up isolation (x10), MEB torque and CO2, Mach-E cell max/delta, XPeng outdoor temp, Tesla S/X regen shown as charging, Model 3 capacity. New: Leaf on more adapters + motor/cabin temps, Geely EX2 battery data, e-GMP miles odometer, Galaxy E5 and BMW 330e cells, more All Sensors values."
   }
 }
