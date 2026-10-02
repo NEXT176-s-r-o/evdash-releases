@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.3",
-    "build": 959,
-    "tag": "v1.4.3-959",
-    "publishedAt": "2026-10-02T07:38:00Z",
-    "apk": "evdash-1.4.3-959.apk",
-    "sha256": "1777456cc6aa19f41d52180970b78fdef356f0f2d29ec5cf48a2d85fccc74c93",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.3-959/evdash-1.4.3-959.apk",
-    "notes": "New INTERNET tile (Main grid editor): is data getting through the phone's network. Tyre colours can be judged at the outside temperature (Settings > Tire pressure alerts, off by default). Bulgarian (first draft). Cell grids fill whole rows, also on Android Auto. New: Aion V 75 cells, Tata pack power, Ariya DC charging, e-Up AC power, MG4 Luxury 64 odometer and NMC entry, Corolla Hybrid profile. Corrected: LEAF 30/40 current, EV2 42.2 energy, ID.4 Pro 77 SoC."
+    "build": 960,
+    "tag": "v1.4.3-960",
+    "publishedAt": "2026-10-02T20:22:00Z",
+    "apk": "evdash-1.4.3-960.apk",
+    "sha256": "cdfcdabcc5afb338c7e907cc90ab566cd94772fc04fe15863991e81880e45414",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.3-960/evdash-1.4.3-960.apk",
+    "notes": "Vehicle search: Brand and Model in Settings now have a search box (accents and punctuation ignored; also finds models, platforms and older brand names). MEB: lifetime parked time and time parked at ~100 % / above 90 % SoC in All Sensors. Regen no longer counts as charging on Tesla S/X classic and MG; charging now detected on Evoque P300e and BAW Pony. New: Skyworth EV6 86 cells with vLinker MS, Lynk & Co 02 12 V and DC/DC, Trailseeker rear motor, MG4 Urban 43/54 FWD."
   }
 }
