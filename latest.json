@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.3",
-    "build": 958,
-    "tag": "v1.4.3-958",
-    "publishedAt": "2026-10-01T08:06:00Z",
-    "apk": "evdash-1.4.3-958.apk",
-    "sha256": "fec1669abc0e40eccd46e06d9d89d6f4c5f58c063b385084caca4361a31fbe1a",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.3-958/evdash-1.4.3-958.apk",
-    "notes": "Landscape layout on phones: tabs on the left, panels side by side. Android Auto: Trip avg is this trip's average from 0.5 km (CAL before), range estimate when parked. Kia EV2 AC charging details; charging now recognised on Megane E-Tech 60, eVito 100 and Leapmotor B10. MG IM5 battery and DC charging power. e-GMP 12 V SoC shows CAL while calibrating. Mini Cooper SE speed, odometer, range. Removed wrong values: MG4 64/77 odometer, EV3/EV4 81 motor temp, IM5 speed."
+    "build": 959,
+    "tag": "v1.4.3-959",
+    "publishedAt": "2026-10-02T07:38:00Z",
+    "apk": "evdash-1.4.3-959.apk",
+    "sha256": "1777456cc6aa19f41d52180970b78fdef356f0f2d29ec5cf48a2d85fccc74c93",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.3-959/evdash-1.4.3-959.apk",
+    "notes": "New INTERNET tile (Main grid editor): is data getting through the phone's network. Tyre colours can be judged at the outside temperature (Settings > Tire pressure alerts, off by default). Bulgarian (first draft). Cell grids fill whole rows, also on Android Auto. New: Aion V 75 cells, Tata pack power, Ariya DC charging, e-Up AC power, MG4 Luxury 64 odometer and NMC entry, Corolla Hybrid profile. Corrected: LEAF 30/40 current, EV2 42.2 energy, ID.4 Pro 77 SoC."
   }
 }

@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.3",
+      "build": 959,
+      "tag": "v1.4.3-959",
+      "publishedAt": "2026-10-02T07:38:00Z",
+      "apk": "evdash-1.4.3-959.apk",
+      "sha256": "1777456cc6aa19f41d52180970b78fdef356f0f2d29ec5cf48a2d85fccc74c93",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.3-959/evdash-1.4.3-959.apk",
+      "notes": "New INTERNET tile (Main grid editor): is data getting through the phone's network. Tyre colours can be judged at the outside temperature (Settings > Tire pressure alerts, off by default). Bulgarian (first draft). Cell grids fill whole rows, also on Android Auto. New: Aion V 75 cells, Tata pack power, Ariya DC charging, e-Up AC power, MG4 Luxury 64 odometer and NMC entry, Corolla Hybrid profile. Corrected: LEAF 30/40 current, EV2 42.2 energy, ID.4 Pro 77 SoC."
+    },
+    {
+      "version": "1.4.3",
       "build": 958,
       "tag": "v1.4.3-958",
       "publishedAt": "2026-10-01T08:06:00Z",
