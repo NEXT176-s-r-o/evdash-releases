@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.3",
+      "build": 961,
+      "tag": "v1.4.3-961",
+      "publishedAt": "2026-10-03T18:39:00Z",
+      "apk": "evdash-1.4.3-961.apk",
+      "sha256": "608d990cf57ddcce14ccfae8e9219d272396ea6edb012e6f8408f1408f829306",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.3-961/evdash-1.4.3-961.apk",
+      "notes": "New: battery health card (local summary of saved battery measurements), history restore from an evDash ZIP, drive replay \"Map & graph\" and \"Compare two drives\", redesigned main tiles, green app icon, live traffic on navigation maps, ABRP upload status. Vehicles: Dacia Spring 24.3 LFP and Deepal S07 EREV (preliminary), Mini J01 and MG4 Urban 54 SoC fixes, Tesla 3/Y pack energy fix and odometer. Experimental \"Vehicle cloud\" (DEV) in the Service menu."
+    },
+    {
+      "version": "1.4.3",
       "build": 960,
       "tag": "v1.4.3-960",
       "publishedAt": "2026-10-02T20:22:00Z",
