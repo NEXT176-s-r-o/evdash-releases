@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.3",
+      "build": 963,
+      "tag": "v1.4.3-963",
+      "publishedAt": "2026-10-04T16:47:00Z",
+      "apk": "evdash-1.4.3-963.apk",
+      "sha256": "d0e725e938e10ee467959e0db448e67dea33cfeca85a957596142c73385a3785",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.3-963/evdash-1.4.3-963.apk",
+      "notes": "Live stream 1h is now in the Service menu: share a one-hour diagnostic recording (includes the VIN and phone location) to help improve support for your car. Safety: the live stream never tries extra registers on the BMW brake unit (DSC) or the MG IM5 vehicle control unit. Reconnecting reads the car identity again, so a shared adapter no longer carries the previous car's VIN. XPeng tyre pressures removed (unreliable). MG ZS EV 51 odometer from the gateway."
+    },
+    {
+      "version": "1.4.3",
       "build": 961,
       "tag": "v1.4.3-961",
       "publishedAt": "2026-10-03T18:39:00Z",
