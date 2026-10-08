@@ -3,13 +3,13 @@
   "product": "evDash",
   "packageId": "sk.next176.evdashapp",
   "release": {
-    "version": "1.4.3",
-    "build": 964,
-    "tag": "v1.4.3-964",
-    "publishedAt": "2026-10-06T14:41:00Z",
-    "apk": "evdash-1.4.3-964.apk",
-    "sha256": "3ca7fa283b53dbec3421e01817496177e70143e135cff074d14acbe6c62c14e3",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.3-964/evdash-1.4.3-964.apk",
-    "notes": "Share an address, coordinates, a Plus Code or a map link to evDash navigation; destination search by coordinates, Plus Codes and map links; Bulgarian navigation screens; map no longer keeps GPS running in the background; pre-purchase battery test no longer cut by the low-12 V protection; new or better readings for BMW plug-in hybrids, BYD Atto 2, Nissan Leaf 30, Ford Courier, Geely EX5, Tata Punch EV, VW-group plug-in hybrids, Hyundai and Kia E-GMP, MG and more."
+    "version": "1.4.4",
+    "build": 967,
+    "tag": "v1.4.4-967",
+    "publishedAt": "2026-10-08T06:28:00Z",
+    "apk": "evdash-1.4.4-967.apk",
+    "sha256": "e546b6db37728ad273fd75a645036560bc2ae707629c3954f2bbd5d281845dc1",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.4-967/evdash-1.4.4-967.apk",
+    "notes": "Wired USB OBD2 adapters through USB-OTG (new); navigation: optional satellite map and speed-warning sound, speed-limit sign, zoom buttons, compact layout; Android Auto: voice mute, battery %, lane images; new or better readings for Tesla Model 3/Y, Ford Fusion Energi, Mitsubishi plug-in hybrids, VW e-Golf and e-Up, BMW i3 and X5 45e, Hyundai/Kia E-GMP, classic Kona, e-Niro and Ioniq, BYD; older drive reports recalculate their energy; ended remote sessions stay ended."
   }
 }

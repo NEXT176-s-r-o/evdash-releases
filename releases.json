@@ -4,6 +4,16 @@
   "packageId": "sk.next176.evdashapp",
   "releases": [
     {
+      "version": "1.4.4",
+      "build": 967,
+      "tag": "v1.4.4-967",
+      "publishedAt": "2026-10-08T06:28:00Z",
+      "apk": "evdash-1.4.4-967.apk",
+      "sha256": "e546b6db37728ad273fd75a645036560bc2ae707629c3954f2bbd5d281845dc1",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.4-967/evdash-1.4.4-967.apk",
+      "notes": "Wired USB OBD2 adapters through USB-OTG (new); navigation: optional satellite map and speed-warning sound, speed-limit sign, zoom buttons, compact layout; Android Auto: voice mute, battery %, lane images; new or better readings for Tesla Model 3/Y, Ford Fusion Energi, Mitsubishi plug-in hybrids, VW e-Golf and e-Up, BMW i3 and X5 45e, Hyundai/Kia E-GMP, classic Kona, e-Niro and Ioniq, BYD; older drive reports recalculate their energy; ended remote sessions stay ended."
+    },
+    {
       "version": "1.4.3",
       "build": 964,
       "tag": "v1.4.3-964",
