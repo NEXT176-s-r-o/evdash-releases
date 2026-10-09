@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.4",
+      "build": 968,
+      "tag": "v1.4.4-968",
+      "publishedAt": "2026-10-09T09:03:00Z",
+      "apk": "evdash-1.4.4-968.apk",
+      "sha256": "fb5611c8edb7e6942667514bff6fa59a13136cfd374894794e0e64c958a50e24",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.4-968/evdash-1.4.4-968.apk",
+      "notes": "New battery energy overview (rated, new, full-charge and remaining usable energy, each with its source); net energy in history and drive reports; statistics bound to the car's VIN with a mismatch banner; clearer recording indicators; new or better readings for Tesla Model 3/Y, BYD Atto 3/Seal/Sealion 7, XPeng G9/P7+, Ioniq 6, Hyundai/Kia E-GMP, Kia EV2, VW ID., VW e-Golf, Leaf 30, MG4, Jaecoo J5 EV; BMW i4 M50 motor temperature (new, untested)."
+    },
+    {
+      "version": "1.4.4",
       "build": 967,
       "tag": "v1.4.4-967",
       "publishedAt": "2026-10-08T06:28:00Z",
