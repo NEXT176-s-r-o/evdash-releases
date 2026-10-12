@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.4",
-    "build": 969,
-    "tag": "v1.4.4-969",
-    "publishedAt": "2026-10-11T14:57:00Z",
-    "apk": "evdash-1.4.4-969.apk",
-    "sha256": "d9dbed53cee51355effec7bb9b92d41027bfc971f2574a3abb7ff759591fa430",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.4-969/evdash-1.4.4-969.apk",
-    "notes": "New Inverter temp row; Ignition shows - when the car does not report its key state, instead of a false OFF; E-GMP charging rows only while plugged in; history restore accepts graph images; navigation: reworked phone map lifecycle after dialogs and permission prompts (new, please check); new or better readings for Hyundai Ioniq 5, Kia EV6/EV9/Niro EV, VW e-Up/e-Golf, Audi e-tron, Tesla Model 3/Y, Nissan Leaf/Ariya, BYD Atto 2, XPeng P7+; BMW i4 M50 DC inlet voltage and motor temperature (new, untested)."
+    "build": 970,
+    "tag": "v1.4.4-970",
+    "publishedAt": "2026-10-12T19:30:00Z",
+    "apk": "evdash-1.4.4-970.apk",
+    "sha256": "4c4d1c52ee9d7fd8fc3ab39e87f51d60b524b2c355fe386f90f8b29925715f05",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.4-970/evdash-1.4.4-970.apk",
+    "notes": "New car image editor (long-press the car on Drive, or Settings > Vehicle; new, please check) with redrawn status overlays; collapsible settings; one CAN/OBD recording page; fault codes in reports summarised as DTCs requiring attention; Ignition shows - instead of a false OFF on classic Hyundai and Kia cars; Android Auto battery cell and module lists (new, please check); new or better readings for Hyundai/Kia, Nissan Leaf/Ariya, Renault Scenic, BYD, VW e-Golf/e-Up, PSA, Tesla Model 3 SR+; BMW i4 and Audi e-tron additions (new, untested)."
   }
 }
