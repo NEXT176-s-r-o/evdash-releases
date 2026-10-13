@@ -27,6 +27,16 @@ the APK and its sha256 file. Release title format: evDash VERSION (build BUILD).
 Do not overwrite an existing asset or mutate a published build; publish a new
 build and tag after a correction.
 
+The GitHub Release description must contain the same owner-facing notes as the
+matching manifest entry, rather than only repeating the build title. Prepare the
+notes as a UTF-8 file and pass it with `gh release create --notes-file`; when
+repairing an empty/title-only description, use `gh release edit --notes-file`
+for the exact existing tag. Preserve any substantive manually edited description.
+Verify the saved body with `gh release view --json body,assets,tagName` and confirm
+that the original APK and checksum assets are unchanged. A description repair
+must not replace assets, alter a published manifest entry or publish a new build.
+
+
 Then prepend the matching object to releases.json, including version, build, tag,
 UTC publication time, APK filename, exact SHA-256, GitHub asset URL and concise
 release notes. Point latest.json to the same object. Validate both JSON files
