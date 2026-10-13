@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.4",
-    "build": 970,
-    "tag": "v1.4.4-970",
-    "publishedAt": "2026-10-12T19:30:00Z",
-    "apk": "evdash-1.4.4-970.apk",
-    "sha256": "4c4d1c52ee9d7fd8fc3ab39e87f51d60b524b2c355fe386f90f8b29925715f05",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.4-970/evdash-1.4.4-970.apk",
-    "notes": "New car image editor (long-press the car on Drive, or Settings > Vehicle; new, please check) with redrawn status overlays; collapsible settings; one CAN/OBD recording page; fault codes in reports summarised as DTCs requiring attention; Ignition shows - instead of a false OFF on classic Hyundai and Kia cars; Android Auto battery cell and module lists (new, please check); new or better readings for Hyundai/Kia, Nissan Leaf/Ariya, Renault Scenic, BYD, VW e-Golf/e-Up, PSA, Tesla Model 3 SR+; BMW i4 and Audi e-tron additions (new, untested)."
+    "build": 972,
+    "tag": "v1.4.4-972",
+    "publishedAt": "2026-10-13T14:11:25Z",
+    "apk": "evdash-1.4.4-972.apk",
+    "sha256": "66d2deb73febd97534ba5676492400ba2232e825d4cc2e85aefc20d53dfeb098",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.4-972/evdash-1.4.4-972.apk",
+    "notes": "Dashboard captions and the charging card follow the app language; cold battery modules shown grey-blue; the Battery Test 100→0% certificate shows the test's VIN; stricter communication check and tighter PDF in the pre-purchase check; Remote Tuning accepts more reference values (VIN, odometer, temperatures, fault-code text); Android Auto: optional AVG SPEED tile (new, please check); repeated CAN error warning; debug mode by 6 taps on the version; new or better readings for Tesla Model 3/Y, Hyundai/Kia, Renault ZOE, XPeng P7+, Jeep Avenger."
   }
 }

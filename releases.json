@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.4",
+      "build": 972,
+      "tag": "v1.4.4-972",
+      "publishedAt": "2026-10-13T14:11:25Z",
+      "apk": "evdash-1.4.4-972.apk",
+      "sha256": "66d2deb73febd97534ba5676492400ba2232e825d4cc2e85aefc20d53dfeb098",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.4-972/evdash-1.4.4-972.apk",
+      "notes": "Dashboard captions and the charging card follow the app language; cold battery modules shown grey-blue; the Battery Test 100→0% certificate shows the test's VIN; stricter communication check and tighter PDF in the pre-purchase check; Remote Tuning accepts more reference values (VIN, odometer, temperatures, fault-code text); Android Auto: optional AVG SPEED tile (new, please check); repeated CAN error warning; debug mode by 6 taps on the version; new or better readings for Tesla Model 3/Y, Hyundai/Kia, Renault ZOE, XPeng P7+, Jeep Avenger."
+    },
+    {
+      "version": "1.4.4",
       "build": 970,
       "tag": "v1.4.4-970",
       "publishedAt": "2026-10-12T19:30:00Z",
