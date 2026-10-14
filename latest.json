@@ -3,13 +3,13 @@
   "product": "evDash",
   "packageId": "sk.next176.evdashapp",
   "release": {
-    "version": "1.4.4",
-    "build": 972,
-    "tag": "v1.4.4-972",
-    "publishedAt": "2026-10-13T14:11:25Z",
-    "apk": "evdash-1.4.4-972.apk",
-    "sha256": "66d2deb73febd97534ba5676492400ba2232e825d4cc2e85aefc20d53dfeb098",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.4-972/evdash-1.4.4-972.apk",
-    "notes": "Dashboard captions and the charging card follow the app language; cold battery modules shown grey-blue; the Battery Test 100→0% certificate shows the test's VIN; stricter communication check and tighter PDF in the pre-purchase check; Remote Tuning accepts more reference values (VIN, odometer, temperatures, fault-code text); Android Auto: optional AVG SPEED tile (new, please check); repeated CAN error warning; debug mode by 6 taps on the version; new or better readings for Tesla Model 3/Y, Hyundai/Kia, Renault ZOE, XPeng P7+, Jeep Avenger."
+    "version": "1.4.5",
+    "build": 973,
+    "tag": "v1.4.5-973",
+    "publishedAt": "2026-10-14T12:56:31Z",
+    "apk": "evdash-1.4.5-973.apk",
+    "sha256": "9d5e91e7eb9072862deba565f7d50039d77f532f6ab89f82c94989d82de828f0",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.5-973/evdash-1.4.5-973.apk",
+    "notes": "Pre-purchase check: stops while charging, plugged in or at 10 kW and more; if the car reports no speed, a fresh, low battery power reading counts as rest once you confirm the car is parked (works indoors without GPS; assumed, not measured); History: consumption in your unit, short charges should no longer show the previous charge's energy; Trip Manager suggests more missed charging stops; adapter type list with examples; nameplate model code on the Battery Test certificate; Android Auto: tile values should fit narrow split screens, SoC in navigation; e-NV200 via OVMS v3: front tyre sides."
   }
 }

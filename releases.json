@@ -4,6 +4,16 @@
   "packageId": "sk.next176.evdashapp",
   "releases": [
     {
+      "version": "1.4.5",
+      "build": 973,
+      "tag": "v1.4.5-973",
+      "publishedAt": "2026-10-14T12:56:31Z",
+      "apk": "evdash-1.4.5-973.apk",
+      "sha256": "9d5e91e7eb9072862deba565f7d50039d77f532f6ab89f82c94989d82de828f0",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.5-973/evdash-1.4.5-973.apk",
+      "notes": "Pre-purchase check: stops while charging, plugged in or at 10 kW and more; if the car reports no speed, a fresh, low battery power reading counts as rest once you confirm the car is parked (works indoors without GPS; assumed, not measured); History: consumption in your unit, short charges should no longer show the previous charge's energy; Trip Manager suggests more missed charging stops; adapter type list with examples; nameplate model code on the Battery Test certificate; Android Auto: tile values should fit narrow split screens, SoC in navigation; e-NV200 via OVMS v3: front tyre sides."
+    },
+    {
       "version": "1.4.4",
       "build": 972,
       "tag": "v1.4.4-972",
