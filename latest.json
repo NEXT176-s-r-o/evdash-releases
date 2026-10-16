@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.5",
-    "build": 973,
-    "tag": "v1.4.5-973",
-    "publishedAt": "2026-10-14T12:56:31Z",
-    "apk": "evdash-1.4.5-973.apk",
-    "sha256": "9d5e91e7eb9072862deba565f7d50039d77f532f6ab89f82c94989d82de828f0",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.5-973/evdash-1.4.5-973.apk",
-    "notes": "Pre-purchase check: stops while charging, plugged in or at 10 kW and more; if the car reports no speed, a fresh, low battery power reading counts as rest once you confirm the car is parked (works indoors without GPS; assumed, not measured); History: consumption in your unit, short charges should no longer show the previous charge's energy; Trip Manager suggests more missed charging stops; adapter type list with examples; nameplate model code on the Battery Test certificate; Android Auto: tile values should fit narrow split screens, SoC in navigation; e-NV200 via OVMS v3: front tyre sides."
+    "build": 974,
+    "tag": "v1.4.5-974",
+    "publishedAt": "2026-10-16T05:33:10Z",
+    "apk": "evdash-1.4.5-974.apk",
+    "sha256": "63bdb940b644c1083d029ad278d1d35518a4111efc68031709451a4a8d060ab9",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.5-974/evdash-1.4.5-974.apk",
+    "notes": "Pre-purchase check: internal resistance is graded only at a verified 20–35 °C battery, the PDF keeps only the fault codes that need attention, and STOP should no longer stay right after unplugging; charging reports show AC/DC/UFC; History: drive totals per car and a cell delta chart per saved drive; Google Drive backup at most hourly, no background account picker; Bluetooth LE reconnect should be steadier; cell outlines should clear after balancing; Spark EV 19 kWh out of dev; LEAF picture and door refresh; Xpeng P7+ 74.9 provisional gear and tyres."
   }
 }
