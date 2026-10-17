@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.5",
+      "build": 975,
+      "tag": "v1.4.5-975",
+      "publishedAt": "2026-10-17T05:49:54Z",
+      "apk": "evdash-1.4.5-975.apk",
+      "sha256": "ef5892ef23cc0ba9d805e14cb54b4332dc3e4edfea62c6e8dd9b9337527d48ba",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.5-975/evdash-1.4.5-975.apk",
+      "notes": "Safety precaution (INC-2026-022): on the Kia Niro EV and Hyundai Kona Electric 2023–25, extended ECU scans, DTC read/clear, the All Sensors module scan and Remote Tuning beyond regular data reads stay off until validated on a car; pre-purchase report shows unknown capacity instead of implying no loss, demo checks are never saved or shared; Battery Test 100→0% certificate graded only after a complete discharge; new numeric font on the dashboard; charging card shows session kWh first; messages can be closed; Chinese drive and charging PDFs; Jaecoo J5 58.9: 41 new All Sensors rows."
+    },
+    {
+      "version": "1.4.5",
       "build": 974,
       "tag": "v1.4.5-974",
       "publishedAt": "2026-10-16T05:33:10Z",
