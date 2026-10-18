@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.5",
-    "build": 975,
-    "tag": "v1.4.5-975",
-    "publishedAt": "2026-10-17T05:49:54Z",
-    "apk": "evdash-1.4.5-975.apk",
-    "sha256": "ef5892ef23cc0ba9d805e14cb54b4332dc3e4edfea62c6e8dd9b9337527d48ba",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.5-975/evdash-1.4.5-975.apk",
-    "notes": "Safety precaution (INC-2026-022): on the Kia Niro EV and Hyundai Kona Electric 2023–25, extended ECU scans, DTC read/clear, the All Sensors module scan and Remote Tuning beyond regular data reads stay off until validated on a car; pre-purchase report shows unknown capacity instead of implying no loss, demo checks are never saved or shared; Battery Test 100→0% certificate graded only after a complete discharge; new numeric font on the dashboard; charging card shows session kWh first; messages can be closed; Chinese drive and charging PDFs; Jaecoo J5 58.9: 41 new All Sensors rows."
+    "build": 976,
+    "tag": "v1.4.5-976",
+    "publishedAt": "2026-10-18T12:03:19Z",
+    "apk": "evdash-1.4.5-976.apk",
+    "sha256": "47955fbf4144efba62234fceaedb2b97203b2ffe4a79cd10033ed16e18c4a1f7",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.5-976/evdash-1.4.5-976.apk",
+    "notes": "Five texts that 975 showed in English (Bluetooth Classic help, live stream no-internet message, \"Not rated\" on the Battery Test certificate) and the drive PDF heading \"Elevation & Map\" are translated; optional nameplate voltage and capacity per car, printed on the Battery Test certificate as manual values; Remote Tuning shows adapter name, type and firmware; clearer Adapter test flow-control result; smaller units on the Dashboard car panel; Tesla Model 3/Y should no longer show phantom DC charging when parked; Jaecoo J5 58.9: no extra brake-system reads during Live stream 1h."
   }
 }

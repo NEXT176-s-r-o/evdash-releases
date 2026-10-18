@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.5",
+      "build": 976,
+      "tag": "v1.4.5-976",
+      "publishedAt": "2026-10-18T12:03:19Z",
+      "apk": "evdash-1.4.5-976.apk",
+      "sha256": "47955fbf4144efba62234fceaedb2b97203b2ffe4a79cd10033ed16e18c4a1f7",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.5-976/evdash-1.4.5-976.apk",
+      "notes": "Five texts that 975 showed in English (Bluetooth Classic help, live stream no-internet message, \"Not rated\" on the Battery Test certificate) and the drive PDF heading \"Elevation & Map\" are translated; optional nameplate voltage and capacity per car, printed on the Battery Test certificate as manual values; Remote Tuning shows adapter name, type and firmware; clearer Adapter test flow-control result; smaller units on the Dashboard car panel; Tesla Model 3/Y should no longer show phantom DC charging when parked; Jaecoo J5 58.9: no extra brake-system reads during Live stream 1h."
+    },
+    {
+      "version": "1.4.5",
       "build": 975,
       "tag": "v1.4.5-975",
       "publishedAt": "2026-10-17T05:49:54Z",
