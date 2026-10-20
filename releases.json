@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.5",
+      "build": 977,
+      "tag": "v1.4.5-977",
+      "publishedAt": "2026-10-20T07:03:21Z",
+      "apk": "evdash-1.4.5-977.apk",
+      "sha256": "c5c3af0405fc42a144362314e6b9a4e41ce317e0936b81bb079957e991d6d030",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.5-977/evdash-1.4.5-977.apk",
+      "notes": "Nameplate reading on the phone (model code, voltage, capacity and the new maximum gross mass) with review before use, and an optional form to send the nameplate to support; searchable log markers (note, event, value); short recording now 180 s; adapter details in Debug, Remote Tuning and Adapter test; dashboard number font choice; tap the battery panel for energy, power or BMS SoC; calmer cell colours under load; tyre ▼/▲ arrows; History CSV export; odometer in drive reports; new Android Auto tiles Arrival and Pack kWh; connection errors blame another app only when the adapter is busy."
+    },
+    {
+      "version": "1.4.5",
       "build": 976,
       "tag": "v1.4.5-976",
       "publishedAt": "2026-10-18T12:03:19Z",
