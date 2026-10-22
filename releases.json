@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.5",
+      "build": 978,
+      "tag": "v1.4.5-978",
+      "publishedAt": "2026-10-22T20:53:52Z",
+      "apk": "evdash-1.4.5-978.apk",
+      "sha256": "4fd34fd78aca115f561ce0cf7dc8573ecad20cf31ec112e5dd10d65fcd9d5ea4",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.5-978/evdash-1.4.5-978.apk",
+      "notes": "Android Auto tiles back to their earlier look on a transparent background (no grey frame, continuous charge gauge, door dots); clearer Dashboard and Main tile names (HV battery peak, Battery power, 12V battery); Driving/Charging buttons in Graphs; nameplate photo zoom and an optional note to support; Pre-purchase Check waits longer for live data and estimates distance from speed when the odometer stands still; MG4 odometer; Ioniq 5 58/63 module temperatures; Ioniq 28 motor torque and pedal; MEB car clock; BMS cell min/max shown only when fresh; Logbook for the evDash recorder adapter."
+    },
+    {
+      "version": "1.4.5",
       "build": 977,
       "tag": "v1.4.5-977",
       "publishedAt": "2026-10-20T07:03:21Z",
