@@ -4,6 +4,16 @@
   "packageId": "sk.next176.evdashapp",
   "releases": [
     {
+      "version": "1.4.6",
+      "build": 980,
+      "tag": "v1.4.6-980",
+      "publishedAt": "2026-10-24T18:41:32Z",
+      "apk": "evdash-1.4.6-980.apk",
+      "sha256": "1bbf510c0a89a043356deaf273af47dfdc54be4d838f738e1d95e46e2295983f",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.6-980/evdash-1.4.6-980.apk",
+      "notes": "Steadier tyre and motor values in the Dashboard car panel; the adapter \"refused the data channel\" warning clears once the car answers; no fault code erase while the car is moving; nameplate reading errors no longer crash the app; BMW i4 battery pre-heat (derived) and i4 M50 on-board charger readings on AC; Kona 48 with all 80 cells and 12 module temperatures; Kona 65 AC charger output; MG4 Standard 51 SoC closer to the dashboard; BYD Atto 3 Extended Range and Dolphin 60.4 kWh gear; e-308 voltage and energy; Astra Electric current; Logbook charges for the evDash recorder adapter."
+    },
+    {
       "version": "1.4.5",
       "build": 978,
       "tag": "v1.4.5-978",
