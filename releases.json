@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.6",
+      "build": 984,
+      "tag": "v1.4.6-984",
+      "publishedAt": "2026-10-26T10:01:47Z",
+      "apk": "evdash-1.4.6-984.apk",
+      "sha256": "f1c08d82b39b0f1e6d08c39fc18f23e717cdc1bc9a4f2cb26a4f256661580dea",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.6-984/evdash-1.4.6-984.apk",
+      "notes": "Settings and saved passwords stay intact on the first start after the update: they move to the phone's secure storage, and the evDash account backup for a reinstall keeps working; a Loxone Miniserver with its own HTTPS certificate needs that certificate in Settings; Live stream 1h keeps a failed upload on the phone (Retry upload, Export, Delete), and its extended collection is now a switch, off by default; date and time pickers and built-in buttons follow the app language; nameplate photo zoom and clearer send errors; History keeps its scroll position; Kona 64/39 and Ioniq 38 AC charger readings; EV6 77 rear temperatures; VW ID. and Enyaq A/C compressor power; Tesla energy, LEAF rpm when parked, Atto 2 45.12 kWh speed; Chinese wording."
+    },
+    {
+      "version": "1.4.6",
       "build": 980,
       "tag": "v1.4.6-980",
       "publishedAt": "2026-10-24T18:41:32Z",
