@@ -4,6 +4,16 @@
   "packageId": "sk.next176.evdashapp",
   "releases": [
     {
+      "version": "1.4.7",
+      "build": 985,
+      "tag": "v1.4.7-985",
+      "publishedAt": "2026-10-28T06:05:07Z",
+      "apk": "evdash-1.4.7-985.apk",
+      "sha256": "16c18515101c833b5e2ebfe36e8ff19896fa562d6830f8b841ca3688be01e0be",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.7-985/evdash-1.4.7-985.apk",
+      "notes": "Arabic with right-to-left reports; safety fixes for Toyota hybrids and Geely/Proton; corrected e-CMP current, Mach-E isolation, Volvo coolant, cell numbers; MX-30 R-EV profile; more car data."
+    },
+    {
       "version": "1.4.6",
       "build": 984,
       "tag": "v1.4.6-984",
