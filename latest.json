@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.7",
-    "build": 985,
-    "tag": "v1.4.7-985",
-    "publishedAt": "2026-10-28T06:05:07Z",
-    "apk": "evdash-1.4.7-985.apk",
-    "sha256": "16c18515101c833b5e2ebfe36e8ff19896fa562d6830f8b841ca3688be01e0be",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.7-985/evdash-1.4.7-985.apk",
-    "notes": "Arabic with right-to-left reports; safety fixes for Toyota hybrids and Geely/Proton; corrected e-CMP current, Mach-E isolation, Volvo coolant, cell numbers; MX-30 R-EV profile; more car data."
+    "build": 986,
+    "tag": "v1.4.7-986",
+    "publishedAt": "2026-10-30T09:31:46Z",
+    "apk": "evdash-1.4.7-986.apk",
+    "sha256": "d830b5fbe837b7623beb009168ea6a419bdaadf0b0832ea3488916af10a1c938",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.7-986/evdash-1.4.7-986.apk",
+    "notes": "Battery test shows cell balance for information only; settings forms and M5 approval fixed; corrected BYD Atto 3 EVO speed, Deepal S07 SoC, MEB cell delta; Prologue, XC40 PHEV, GLC 300 e data."
   }
 }
