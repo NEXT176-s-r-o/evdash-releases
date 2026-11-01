@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.7",
+      "build": 987,
+      "tag": "v1.4.7-987",
+      "publishedAt": "2026-11-01T08:08:19Z",
+      "apk": "evdash-1.4.7-987.apk",
+      "sha256": "1aa297c7612acb93746ca8062a32cd9df914f38346c1ea70ebb22f79e028c3b4",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.7-987/evdash-1.4.7-987.apk",
+      "notes": "VW ID. battery preheat from the Drive tab (Pro); clearer battery reports; Ioniq 28 AC charger data; fixed ZOE tyre pressures, Outlander PHEV current; Frontera, Grande Panda, Aion V data."
+    },
+    {
+      "version": "1.4.7",
       "build": 986,
       "tag": "v1.4.7-986",
       "publishedAt": "2026-10-30T09:31:46Z",

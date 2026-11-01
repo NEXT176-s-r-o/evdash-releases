@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.7",
-    "build": 986,
-    "tag": "v1.4.7-986",
-    "publishedAt": "2026-10-30T09:31:46Z",
-    "apk": "evdash-1.4.7-986.apk",
-    "sha256": "d830b5fbe837b7623beb009168ea6a419bdaadf0b0832ea3488916af10a1c938",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.7-986/evdash-1.4.7-986.apk",
-    "notes": "Battery test shows cell balance for information only; settings forms and M5 approval fixed; corrected BYD Atto 3 EVO speed, Deepal S07 SoC, MEB cell delta; Prologue, XC40 PHEV, GLC 300 e data."
+    "build": 987,
+    "tag": "v1.4.7-987",
+    "publishedAt": "2026-11-01T08:08:19Z",
+    "apk": "evdash-1.4.7-987.apk",
+    "sha256": "1aa297c7612acb93746ca8062a32cd9df914f38346c1ea70ebb22f79e028c3b4",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.7-987/evdash-1.4.7-987.apk",
+    "notes": "VW ID. battery preheat from the Drive tab (Pro); clearer battery reports; Ioniq 28 AC charger data; fixed ZOE tyre pressures, Outlander PHEV current; Frontera, Grande Panda, Aion V data."
   }
 }
