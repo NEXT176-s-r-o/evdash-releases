@@ -4,6 +4,16 @@
   "packageId": "sk.next176.evdashapp",
   "releases": [
     {
+      "version": "1.4.8",
+      "build": 989,
+      "tag": "v1.4.8-989",
+      "publishedAt": "2026-11-02T08:08:23Z",
+      "apk": "evdash-1.4.8-989.apk",
+      "sha256": "9a874357f8e66e1eabf80e6359a9707cfd172a6997677170c25de4e39726f467",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.8-989/evdash-1.4.8-989.apk",
+      "notes": "VW ID. battery preheat (Pro) runs to 25 °C with a live Drive tab; Live stream 1h sends its buffer on a lost link; fixed Mokka Electric voltage; e-3008, Grandland, Kona, P7+, MX-30 R-EV data."
+    },
+    {
       "version": "1.4.7",
       "build": 987,
       "tag": "v1.4.7-987",

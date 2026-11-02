@@ -3,13 +3,13 @@
   "product": "evDash",
   "packageId": "sk.next176.evdashapp",
   "release": {
-    "version": "1.4.7",
-    "build": 987,
-    "tag": "v1.4.7-987",
-    "publishedAt": "2026-11-01T08:08:19Z",
-    "apk": "evdash-1.4.7-987.apk",
-    "sha256": "1aa297c7612acb93746ca8062a32cd9df914f38346c1ea70ebb22f79e028c3b4",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.7-987/evdash-1.4.7-987.apk",
-    "notes": "VW ID. battery preheat from the Drive tab (Pro); clearer battery reports; Ioniq 28 AC charger data; fixed ZOE tyre pressures, Outlander PHEV current; Frontera, Grande Panda, Aion V data."
+    "version": "1.4.8",
+    "build": 989,
+    "tag": "v1.4.8-989",
+    "publishedAt": "2026-11-02T08:08:23Z",
+    "apk": "evdash-1.4.8-989.apk",
+    "sha256": "9a874357f8e66e1eabf80e6359a9707cfd172a6997677170c25de4e39726f467",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.8-989/evdash-1.4.8-989.apk",
+    "notes": "VW ID. battery preheat (Pro) runs to 25 °C with a live Drive tab; Live stream 1h sends its buffer on a lost link; fixed Mokka Electric voltage; e-3008, Grandland, Kona, P7+, MX-30 R-EV data."
   }
 }
