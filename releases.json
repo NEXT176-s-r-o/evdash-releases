@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.8",
+      "build": 990,
+      "tag": "v1.4.8-990",
+      "publishedAt": "2026-11-03T07:41:27Z",
+      "apk": "evdash-1.4.8-990.apk",
+      "sha256": "d336c715b836a3cecdc223d07b69f927148fcf03fc8f1092ba5ae95f434c21a8",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.8-990/evdash-1.4.8-990.apk",
+      "notes": "VW ID. preheat (Pro) stops at 25 °C on slower adapters and ends on a refusal; time to 80 % and an Android Auto tile; battery heating alert; Mach-E capacity; MX-30 R-EV torque."
+    },
+    {
+      "version": "1.4.8",
       "build": 989,
       "tag": "v1.4.8-989",
       "publishedAt": "2026-11-02T08:08:23Z",
