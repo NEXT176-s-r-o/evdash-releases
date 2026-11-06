@@ -3,13 +3,13 @@
   "product": "evDash",
   "packageId": "sk.next176.evdashapp",
   "release": {
-    "version": "1.4.9",
-    "build": 993,
-    "tag": "v1.4.9-993",
-    "publishedAt": "2026-11-05T14:24:39Z",
-    "apk": "evdash-1.4.9-993.apk",
-    "sha256": "c0990bab58b87797165ee0b0efc38431305bcb3571d36cec20739224d6d7ee60",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.9-993/evdash-1.4.9-993.apk",
-    "notes": "Edge SoC gauge on Main; BMS box: unit chooses, number zooms; module temperature tiles; LEAF and e-NV200 power corrected; DFSK Seres 3 SoC; Aion UT 44 profile; Jaecoo J5 EV cells; Spring 24.3 speed."
+    "version": "1.4.10",
+    "build": 994,
+    "tag": "v1.4.10-994",
+    "publishedAt": "2026-11-06T11:16:00Z",
+    "apk": "evdash-1.4.10-994.apk",
+    "sha256": "ca39ab3fd59ca127ce230d613442d50b1aa300c0d96e36d06dd339f8ea1ec918",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.10-994/evdash-1.4.10-994.apk",
+    "notes": "Android Auto keeps its graphic gauges in this APK (tiles by default, text menu optional); voice icon on the Google map; steadier battery panel; trip fix; new readings for Ioniq 38, Bolt, Honda e, 500e, Ariya and ZOE."
   }
 }

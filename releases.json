@@ -4,6 +4,16 @@
   "packageId": "sk.next176.evdashapp",
   "releases": [
     {
+      "version": "1.4.10",
+      "build": 994,
+      "tag": "v1.4.10-994",
+      "publishedAt": "2026-11-06T11:16:00Z",
+      "apk": "evdash-1.4.10-994.apk",
+      "sha256": "ca39ab3fd59ca127ce230d613442d50b1aa300c0d96e36d06dd339f8ea1ec918",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.10-994/evdash-1.4.10-994.apk",
+      "notes": "Android Auto keeps its graphic gauges in this APK (tiles by default, text menu optional); voice icon on the Google map; steadier battery panel; trip fix; new readings for Ioniq 38, Bolt, Honda e, 500e, Ariya and ZOE."
+    },
+    {
       "version": "1.4.9",
       "build": 993,
       "tag": "v1.4.9-993",
