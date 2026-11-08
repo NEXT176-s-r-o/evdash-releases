@@ -4,6 +4,16 @@
   "packageId": "sk.next176.evdashapp",
   "releases": [
     {
+      "version": "1.4.11",
+      "build": 995,
+      "tag": "v1.4.11-995",
+      "publishedAt": "2026-11-08T13:46:00Z",
+      "apk": "evdash-1.4.11-995.apk",
+      "sha256": "a6c2a242cba619b510481b44220d0f1090b859c334c9e94ec32e1b1304be852e",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.11-995/evdash-1.4.11-995.apk",
+      "notes": "Charging costs per kWh or per minute and an XLSX export of a charging session; charging reports count only charging time; connect-on-start fix; new or fixed readings for VW ID. (range in miles), Kia EV9, Kangoo, Volvo S60/V60 T8, MX-30 R-EV, BYD and more. Android Auto keeps its graphic gauges in this APK."
+    },
+    {
       "version": "1.4.10",
       "build": 994,
       "tag": "v1.4.10-994",
