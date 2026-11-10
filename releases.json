@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.11",
+      "build": 996,
+      "tag": "v1.4.11-996",
+      "publishedAt": "2026-11-10T12:41:00Z",
+      "apk": "evdash-1.4.11-996.apk",
+      "sha256": "313791f63c23e96b6134e5be9933f3110d2b31de47d90f2b8ae776ee35864396",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.11-996/evdash-1.4.11-996.apk",
+      "notes": "1.4.11 (996): Dashboard Live history (60 min), 12 V protection confirms low voltage for 3 minutes, Bluetooth first-connect fix, AC/DC charging badge for more cars, E-GMP DC charge time, BMW DC fast-charge detection and many vehicle readings. Android Auto keeps its graphic gauges in this APK."
+    },
+    {
+      "version": "1.4.11",
       "build": 995,
       "tag": "v1.4.11-995",
       "publishedAt": "2026-11-08T13:46:00Z",
