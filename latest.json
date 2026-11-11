@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.11",
-    "build": 996,
-    "tag": "v1.4.11-996",
-    "publishedAt": "2026-11-10T12:41:00Z",
-    "apk": "evdash-1.4.11-996.apk",
-    "sha256": "313791f63c23e96b6134e5be9933f3110d2b31de47d90f2b8ae776ee35864396",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.11-996/evdash-1.4.11-996.apk",
-    "notes": "1.4.11 (996): Dashboard Live history (60 min), 12 V protection confirms low voltage for 3 minutes, Bluetooth first-connect fix, AC/DC charging badge for more cars, E-GMP DC charge time, BMW DC fast-charge detection and many vehicle readings. Android Auto keeps its graphic gauges in this APK."
+    "build": 997,
+    "tag": "v1.4.11-997",
+    "publishedAt": "2026-11-11T12:47:00Z",
+    "apk": "evdash-1.4.11-997.apk",
+    "sha256": "22cfbd31acab274d91ade668a85d06cc2b2ac7bc764961f3e4f7498e60516ced",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.11-997/evdash-1.4.11-997.apk",
+    "notes": "1.4.11 (997): Fisker Ocean and Kangoo E-Tech battery data, faster Megane E-Tech, Mach-E ER Ah counters, Remote Tuning scan time, XLSX export fix. Graphic Android Auto gauges."
   }
 }
