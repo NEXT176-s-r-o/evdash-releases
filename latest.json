@@ -3,13 +3,13 @@
   "product": "evDash",
   "packageId": "sk.next176.evdashapp",
   "release": {
-    "version": "1.4.11",
-    "build": 997,
-    "tag": "v1.4.11-997",
-    "publishedAt": "2026-11-11T12:47:00Z",
-    "apk": "evdash-1.4.11-997.apk",
-    "sha256": "22cfbd31acab274d91ade668a85d06cc2b2ac7bc764961f3e4f7498e60516ced",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.11-997/evdash-1.4.11-997.apk",
-    "notes": "1.4.11 (997): Fisker Ocean and Kangoo E-Tech battery data, faster Megane E-Tech, Mach-E ER Ah counters, Remote Tuning scan time, XLSX export fix. Graphic Android Auto gauges."
+    "version": "1.4.12",
+    "build": 998,
+    "tag": "v1.4.12-998",
+    "publishedAt": "2026-11-13T08:32:00Z",
+    "apk": "evdash-1.4.12-998.apk",
+    "sha256": "66ef2dec07415ec1b294a4d60608688a544663a422d092c5c0ea99f81f350691",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.12-998/evdash-1.4.12-998.apk",
+    "notes": "1.4.12 (998): Fisker Ocean speed and odometer, Camry Hybrid and Seal 5 DM-i profiles, steadier 12 V protection, faster VW ID. live data. Graphic Android Auto gauges."
   }
 }
