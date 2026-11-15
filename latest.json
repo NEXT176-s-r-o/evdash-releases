@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.12",
-    "build": 998,
-    "tag": "v1.4.12-998",
-    "publishedAt": "2026-11-13T08:32:00Z",
-    "apk": "evdash-1.4.12-998.apk",
-    "sha256": "66ef2dec07415ec1b294a4d60608688a544663a422d092c5c0ea99f81f350691",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.12-998/evdash-1.4.12-998.apk",
-    "notes": "1.4.12 (998): Fisker Ocean speed and odometer, Camry Hybrid and Seal 5 DM-i profiles, steadier 12 V protection, faster VW ID. live data. Graphic Android Auto gauges."
+    "build": 999,
+    "tag": "v1.4.12-999",
+    "publishedAt": "2026-11-15T13:48:00Z",
+    "apk": "evdash-1.4.12-999.apk",
+    "sha256": "ef45edcff8dc2fc570fcc0de9b497fc16e852d396b9777f87288f758a0fa74fe",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.12-999/evdash-1.4.12-999.apk",
+    "notes": "1.4.12 (999): Seres 3 charging state, steadier Pre-purchase Check, Tesla Quick Check, NIO ET5 Touring notice, bZ4X temperature fix. Graphic Android Auto gauges."
   }
 }

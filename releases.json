@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.12",
+      "build": 999,
+      "tag": "v1.4.12-999",
+      "publishedAt": "2026-11-15T13:48:00Z",
+      "apk": "evdash-1.4.12-999.apk",
+      "sha256": "ef45edcff8dc2fc570fcc0de9b497fc16e852d396b9777f87288f758a0fa74fe",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.12-999/evdash-1.4.12-999.apk",
+      "notes": "1.4.12 (999): Seres 3 charging state, steadier Pre-purchase Check, Tesla Quick Check, NIO ET5 Touring notice, bZ4X temperature fix. Graphic Android Auto gauges."
+    },
+    {
+      "version": "1.4.12",
       "build": 998,
       "tag": "v1.4.12-998",
       "publishedAt": "2026-11-13T08:32:00Z",
