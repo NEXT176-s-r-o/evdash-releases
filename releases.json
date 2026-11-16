@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.12",
+      "build": 1000,
+      "tag": "v1.4.12-1000",
+      "publishedAt": "2026-11-16T21:42:00Z",
+      "apk": "evdash-1.4.12-1000.apk",
+      "sha256": "caa3b97a50246223bf7fdaa589d037cbff6a4f07dadcf1ec61ec0a534d2574fc",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.12-1000/evdash-1.4.12-1000.apk",
+      "notes": "1.4.12 (1000): minutes to 21 °C while the battery warms, tyre temperature colours, Home / Work in navigation, cancellable connections, HR-V, BYD Seal 82, Uncharted 71 and e-Up readings. Graphic Android Auto gauges."
+    },
+    {
+      "version": "1.4.12",
       "build": 999,
       "tag": "v1.4.12-999",
       "publishedAt": "2026-11-15T13:48:00Z",
