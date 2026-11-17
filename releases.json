@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.12",
+      "build": 1001,
+      "tag": "v1.4.12-1001",
+      "publishedAt": "2026-11-17T09:15:00Z",
+      "apk": "evdash-1.4.12-1001.apk",
+      "sha256": "8f68241f2229b8b8be9bb71357ea2678d2eb049d7c28d3cb97580f363f8169bc",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.12-1001/evdash-1.4.12-1001.apk",
+      "notes": "1.4.12 (1001): Android Auto navigation: the test drive works anywhere, Demo drive without a car, \"Navigate to ...\" voice requests reach evDash, split-screen crash and route timeouts fixed. IONIQ 6 climate readings corrected. Graphic Android Auto gauges."
+    },
+    {
+      "version": "1.4.12",
       "build": 1000,
       "tag": "v1.4.12-1000",
       "publishedAt": "2026-11-16T21:42:00Z",

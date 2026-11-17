@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.12",
-    "build": 1000,
-    "tag": "v1.4.12-1000",
-    "publishedAt": "2026-11-16T21:42:00Z",
-    "apk": "evdash-1.4.12-1000.apk",
-    "sha256": "caa3b97a50246223bf7fdaa589d037cbff6a4f07dadcf1ec61ec0a534d2574fc",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.12-1000/evdash-1.4.12-1000.apk",
-    "notes": "1.4.12 (1000): minutes to 21 °C while the battery warms, tyre temperature colours, Home / Work in navigation, cancellable connections, HR-V, BYD Seal 82, Uncharted 71 and e-Up readings. Graphic Android Auto gauges."
+    "build": 1001,
+    "tag": "v1.4.12-1001",
+    "publishedAt": "2026-11-17T09:15:00Z",
+    "apk": "evdash-1.4.12-1001.apk",
+    "sha256": "8f68241f2229b8b8be9bb71357ea2678d2eb049d7c28d3cb97580f363f8169bc",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.12-1001/evdash-1.4.12-1001.apk",
+    "notes": "1.4.12 (1001): Android Auto navigation: the test drive works anywhere, Demo drive without a car, \"Navigate to ...\" voice requests reach evDash, split-screen crash and route timeouts fixed. IONIQ 6 climate readings corrected. Graphic Android Auto gauges."
   }
 }
