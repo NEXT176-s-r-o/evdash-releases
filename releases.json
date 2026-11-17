@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.12",
+      "build": 1002,
+      "tag": "v1.4.12-1002",
+      "publishedAt": "2026-11-17T20:23:00Z",
+      "apk": "evdash-1.4.12-1002.apk",
+      "sha256": "054d3e272eebfd47b2efce0b12fe06748d9e73b7f15c02a81e364e1250d26e5b",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.12-1002/evdash-1.4.12-1002.apk",
+      "notes": "1.4.12 (1002): fixes a crash when navigation setup opened on Android 15 and newer. Android Auto: battery cell list paging, no turn alert over the map, a clear \"no route\" message with Demo drive. Units by country on a fresh install. Kia EV3 and Stellantis battery readings. Graphic Android Auto gauges."
+    },
+    {
+      "version": "1.4.12",
       "build": 1001,
       "tag": "v1.4.12-1001",
       "publishedAt": "2026-11-17T09:15:00Z",

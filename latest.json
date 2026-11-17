@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.12",
-    "build": 1001,
-    "tag": "v1.4.12-1001",
-    "publishedAt": "2026-11-17T09:15:00Z",
-    "apk": "evdash-1.4.12-1001.apk",
-    "sha256": "8f68241f2229b8b8be9bb71357ea2678d2eb049d7c28d3cb97580f363f8169bc",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.12-1001/evdash-1.4.12-1001.apk",
-    "notes": "1.4.12 (1001): Android Auto navigation: the test drive works anywhere, Demo drive without a car, \"Navigate to ...\" voice requests reach evDash, split-screen crash and route timeouts fixed. IONIQ 6 climate readings corrected. Graphic Android Auto gauges."
+    "build": 1002,
+    "tag": "v1.4.12-1002",
+    "publishedAt": "2026-11-17T20:23:00Z",
+    "apk": "evdash-1.4.12-1002.apk",
+    "sha256": "054d3e272eebfd47b2efce0b12fe06748d9e73b7f15c02a81e364e1250d26e5b",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.12-1002/evdash-1.4.12-1002.apk",
+    "notes": "1.4.12 (1002): fixes a crash when navigation setup opened on Android 15 and newer. Android Auto: battery cell list paging, no turn alert over the map, a clear \"no route\" message with Demo drive. Units by country on a fresh install. Kia EV3 and Stellantis battery readings. Graphic Android Auto gauges."
   }
 }
