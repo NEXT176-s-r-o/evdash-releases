@@ -3,13 +3,13 @@
   "product": "evDash",
   "packageId": "sk.next176.evdashapp",
   "release": {
-    "version": "1.4.12",
-    "build": 1002,
-    "tag": "v1.4.12-1002",
-    "publishedAt": "2026-11-17T20:23:00Z",
-    "apk": "evdash-1.4.12-1002.apk",
-    "sha256": "054d3e272eebfd47b2efce0b12fe06748d9e73b7f15c02a81e364e1250d26e5b",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.12-1002/evdash-1.4.12-1002.apk",
-    "notes": "1.4.12 (1002): fixes a crash when navigation setup opened on Android 15 and newer. Android Auto: battery cell list paging, no turn alert over the map, a clear \"no route\" message with Demo drive. Units by country on a fresh install. Kia EV3 and Stellantis battery readings. Graphic Android Auto gauges."
+    "version": "1.4.13",
+    "build": 1005,
+    "tag": "v1.4.13-1005",
+    "publishedAt": "2026-11-21T14:25:29Z",
+    "apk": "evdash-1.4.13-1005.apk",
+    "sha256": "e18e2e30aed2c345d8883a1e447f4f0ac0e4a21119e59d04b7968c7cff148530",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.13-1005/evdash-1.4.13-1005.apk",
+    "notes": "1.4.13 (1005): 117 new EV and plug-in models and battery variants. Porsche Taycan / Audi e-tron GT: current direction, pack voltage and km range fixed, full cell map on the e-tron GT 84. Honda e: more readings, correct sub-zero temperatures. Battery data for Renault Kangoo Z.E. 33 and DS N°8; Fiat 500e speed fixed. Fixes for Smart #1/#3, Polestar 4, Mercedes B250e and Deepal S05. Graphic Android Auto gauges."
   }
 }

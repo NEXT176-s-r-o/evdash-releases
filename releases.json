@@ -4,6 +4,16 @@
   "packageId": "sk.next176.evdashapp",
   "releases": [
     {
+      "version": "1.4.13",
+      "build": 1005,
+      "tag": "v1.4.13-1005",
+      "publishedAt": "2026-11-21T14:25:29Z",
+      "apk": "evdash-1.4.13-1005.apk",
+      "sha256": "e18e2e30aed2c345d8883a1e447f4f0ac0e4a21119e59d04b7968c7cff148530",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.13-1005/evdash-1.4.13-1005.apk",
+      "notes": "1.4.13 (1005): 117 new EV and plug-in models and battery variants. Porsche Taycan / Audi e-tron GT: current direction, pack voltage and km range fixed, full cell map on the e-tron GT 84. Honda e: more readings, correct sub-zero temperatures. Battery data for Renault Kangoo Z.E. 33 and DS N°8; Fiat 500e speed fixed. Fixes for Smart #1/#3, Polestar 4, Mercedes B250e and Deepal S05. Graphic Android Auto gauges."
+    },
+    {
       "version": "1.4.12",
       "build": 1002,
       "tag": "v1.4.12-1002",
