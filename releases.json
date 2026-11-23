@@ -5,6 +5,16 @@
   "releases": [
     {
       "version": "1.4.13",
+      "build": 1006,
+      "tag": "v1.4.13-1006",
+      "publishedAt": "2026-11-23T16:40:33Z",
+      "apk": "evdash-1.4.13-1006.apk",
+      "sha256": "3b272663e9d477d5d369a3da8f56677a69fba774db2e499c0610bbfd0543fd0e",
+      "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.13-1006/evdash-1.4.13-1006.apk",
+      "notes": "1.4.13 (1006): Toyota bZ4X / C-HR+, Lexus RZ 72, Subaru Trailseeker (2026): speed matches the car's speedometer. Mercedes C 300 e: battery, speed, engine and odometer readings. Mercedes GLA / A 250 e: speed and engine readings, faster updates. Nissan Ariya: experimental read-only fault codes. Deepal: Android Auto shows the SoC with the phone's precision. Fixes for Audi e-tron module temperatures, MG5 request pacing and BYD Sealion 7 speed. Graphic Android Auto gauges."
+    },
+    {
+      "version": "1.4.13",
       "build": 1005,
       "tag": "v1.4.13-1005",
       "publishedAt": "2026-11-21T14:25:29Z",
