@@ -4,12 +4,12 @@
   "packageId": "sk.next176.evdashapp",
   "release": {
     "version": "1.4.14",
-    "build": 1007,
-    "tag": "v1.4.14-1007",
-    "publishedAt": "2026-11-24T19:51:08Z",
-    "apk": "evdash-1.4.14-1007.apk",
-    "sha256": "9e19f22d65f5e020d2f0e15352ee06efd64903f9b9b712815fb16c95c060076a",
-    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.14-1007/evdash-1.4.14-1007.apk",
-    "notes": "1.4.14 (1007): Volvo / Polestar experimental source readings in All Sensors. Honda e: experimental second battery bank, BMS history and charger DC voltage. Chevrolet Bolt EV: experimental read-only fault-code scan. New readings for Renault ZOE Z.E. 50, Subaru Trailseeker, Mach-E SR, E-Tourneo Courier, smart EQ forfour and Fiat Grande Panda. Fixes for BMW Gen5 cell health, BYD Dolphin Surf, MG4 and XPeng P7+. Graphic Android Auto gauges."
+    "build": 1008,
+    "tag": "v1.4.14-1008",
+    "publishedAt": "2026-11-27T11:44:56Z",
+    "apk": "evdash-1.4.14-1008.apk",
+    "sha256": "b1b1960d2f18df6433cdab9046cf131c264b3efdcc2065be5e782ea3975e2fb4",
+    "downloadUrl": "https://github.com/NEXT176-s-r-o/evdash-releases/releases/download/v1.4.14-1008/evdash-1.4.14-1008.apk",
+    "notes": "1.4.14 (1008): Toyota Prius PHEV 8.8 kWh (2017): own profile with battery, motor and converter readings (some not verified yet). Generic OBD2: fixed a false battery current when several control units answer. Renault Megane E-Tech: experimental odometer, not yet checked against the dashboard. Chevrolet Bolt EV and Mercedes GLC: the experimental fault-code scan no longer asks for freeze-frame data. Graphic Android Auto gauges."
   }
 }
